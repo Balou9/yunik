@@ -1,17 +1,17 @@
-# unique
+# yunik
 
 [![build status](http://img.shields.io/travis/balou9/yunik.svg?style=flat)](http://travis-ci.org/balou9/yunik) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/balou9/yunik?branch=master&svg=true)](https://ci.appveyor.com/project/balou9/yunik)
 
 ***
 
-unique gives back unique array items
+yunik gives back unique array items
 
 ***
 
 ## Get it!
 
 ```
-npm install --save unique
+npm install --save yunik
 ```
 
 ***
