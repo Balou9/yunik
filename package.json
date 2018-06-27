@@ -1,0 +1,14 @@
+{
+  "name": "yunik",
+  "version": "0.0.0",
+  "description": "Unique array items",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Emmanuel Owosekun",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
